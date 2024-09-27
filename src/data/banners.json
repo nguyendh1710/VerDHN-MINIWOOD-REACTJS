@@ -1,0 +1,23 @@
+[
+    {
+      "name": "image1",
+      "description": "image#1",
+      "src": "https://github.com/nguyendh-xp97/VerDHN-MINIWOOD-PROJECT-REACTJS/blob/main/src/modules/Home/Banner/banner.png?raw=true"
+    },
+    {
+      "name": "image2",
+      "description": "image#2",
+      "src": "https://github.com/nguyendh-xp97/VerDHN-MINIWOOD-PROJECT-REACTJS/blob/main/src/modules/Home/Banner/miniwood-banner-2%201.png?raw=true"
+    },
+    {
+      "name": "image3",
+      "description": "image#3",
+      "src": "https://github.com/nguyendh-xp97/VerDHN-MINIWOOD-PROJECT-REACTJS/blob/main/src/modules/Home/Banner/miniwood-banner-3%201.png?raw=true"
+    },
+    {
+      "name": "image4",
+      "description": "image#4",
+      "src": "https://github.com/nguyendh-xp97/VerDHN-MINIWOOD-PROJECT-REACTJS/blob/main/src/modules/Home/Banner/miniwood-banner-4%201.png?raw=true"
+    }
+  ]
+  
